@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--CustomTitleView-->
+    <attr name="titleText" format="string" />
+
+    <declare-styleable name="CustomTitleView">
+        <attr name="titleText" />
+    </declare-styleable>
+
+    <!--CustomTextInputEditText-->
+    <attr name="prefillText" format="string" />
+
+    <declare-styleable name="CustomTextInputEditText">
+        <attr name="prefillText" />
+    </declare-styleable>
+</resources>
